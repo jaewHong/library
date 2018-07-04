@@ -1,0 +1,3 @@
+Kernel version 4.4.131
+  Added a new system function sys_printflags();
+  Added a custom NVIDIA_get_user_pages() in gup.c to log if it is called
